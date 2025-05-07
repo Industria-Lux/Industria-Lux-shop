@@ -1,0 +1,1 @@
+// Inhalt von components/ProductCard.tsx
